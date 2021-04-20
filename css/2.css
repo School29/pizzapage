@@ -1,0 +1,204 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* div{
+    border: 1px solid;
+} */
+
+.navbar{
+    background-color: black;
+    opacity: 70%;
+    list-style: none;
+}
+
+
+.container-fuild.page1 {
+    background-image: url(../image/background.png);
+    border: 1px;
+    background-size:cover;
+    background-repeat: no-repeat;
+;
+}
+
+.row ul li a {
+    list-style: none;
+    text-decoration:none;
+    margin-left: 70px;
+    margin-top: 30px;
+    color: white;
+    font-size: 100%;
+    font-weight: 650;
+}   
+.row ul li {
+    list-style: none;
+}
+.container-fuild.page1 ul li{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.row ul li a:hover,
+.row ul li a:active{
+    border-bottom: 2px solid white;
+}
+.row ul{
+    margin-left: 430px;
+    /* content: " "; */
+}
+.container-fuild.page1 img#logo{
+    height: 120px;
+    width: 120px;
+    margin-bottom: 40px;
+}
+.container-fuild.page1 img#la{
+    z-index: 1;
+    width: 609px;
+    height: 478px;
+    position: absolute;
+    left: 180px;
+    bottom: -140px;
+}
+.container-fuild.page1 h1{
+    
+    font-family: "reey regular";
+    color: white;
+}
+.container-fuild.page1 img#hinh{
+    width: 650px;
+    height: 650px;
+    margin-top: 40px;
+    margin-left: -60px;
+}
+.container-fuild #left{
+    padding-left: 180px;
+}
+.container-fuild #h1{
+    font-size: 6.3rem;   
+}
+.container-fuild.page1 h3{
+    color: white;
+    margin-top: 30px;
+}
+.container-fuild.page1 p{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.row #nut{
+    margin-top: 20px;
+}
+        /* PAGE 2 */
+.container-fuild.page2{
+    background-color: white;
+    z-index: 1;
+}
+.container-fuild #page2 h1{
+    font-family: "reey regular";
+    font-size: 100%;
+    color:black;
+}
+
+.container-fuild.page2 img#hinh5{
+    width: 200px;
+    height: 200px;
+    margin: 40px 0px 40px 80px;
+}
+.container-fuild.page2 img#hinh4{
+    width:200px;
+    height: 200px;
+    margin: 40px 0px 40px 80px;
+}
+.container-fuild.page2 img#hinh3{
+    width: 200px;
+    height: 200px;
+    margin: 40px 0px 40px 80px;
+}
+.container-fuild.page2 #nut2{
+    margin-left: 430px;
+    padding: 30px;
+}
+.container-fuild.page2 p{
+    color:black;
+}
+.container-fuild.page2 h1 {
+    color: black;
+    margin: 20px;
+    margin-left: 350px;
+    padding-top: 15px;
+}
+.container-fuild.page2 p#p1{
+text-align: center;
+padding: 25px 0px 25px 0px;
+}
+.container-fuild.page2 h3{
+    padding: 20px 0px 20px 0px;
+}
+.container-fuild.page2 p{
+    padding-bottom: 25px;
+}
+.container-fuild.page3 h1{
+    font-size:300%;
+    font-family: "reey regular";
+    text-align: center;
+    height: 100px;
+    margin-top: 40px;
+    color: white;
+} 
+.container-fuild.page3 #a12{
+    padding: 30px;
+    color: white;
+}
+.container-fuild.page3 #nut3{
+    padding: 15px;
+}
+.container-fuild.page3{
+    background-color: rgba(0, 0, 0, 0.836);
+}
+
+        /* PAGE4 */
+.container-fuild.page4{
+    background-image: url(../image/nền\ trăng.jps);
+
+}
+.container-fuild.page4 h1{
+    text-align: center;
+    font-family: "reey regular";
+    padding: 50px;
+    padding-top: 90px;
+}
+
+.container-fuild.page4 p{
+    text-align:center;
+    padding: 20px;
+}
+.container-fuild.page4 img#pb{
+    width: 600px;
+    height: 500px;
+    margin-left: 650px;
+    z-index: 2;
+    position: absolute;
+    bottom: -1960px;
+}
+.container-fuild.page4 img#pn{
+    width: 350px;
+    height: 270px;
+    margin-left: 500px;
+}
+.container-fuild.page4 p{
+    color:black;
+}
+
+        /* PAGE5 */
+.container-fuild.page5 h3,p{
+    font-family: "Calibri regular";
+    color: white;
+}
+.container-fuild.page5{
+    background-image: url(../image/background.png);
+}
+.container-fuild.page5 #lh1{
+    margin-top: 120px;
+    padding-bottom: 200px;
+    padding-top: 180px;
+}
